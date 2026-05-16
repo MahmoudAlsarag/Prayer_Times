@@ -21,7 +21,7 @@ A React app that displays daily prayer times for different cities in Egypt using
 ---
 
 ## 🚀 Live Demo
-👉 https://your-vercel-link.vercel.app
+👉 [https://your-vercel-link.vercel.app](https://prayer-times-omega-lovat.vercel.app/)
 
 ---
 
